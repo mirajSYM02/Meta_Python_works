@@ -1,5 +1,7 @@
 # This is from the week 4 import and scope assignment.
 # for the assignment all you gotta do is to define stuff as per the comment provided.
+# 
+
 ''' 
 Import statements: 
     1. Import the built-in json python package
